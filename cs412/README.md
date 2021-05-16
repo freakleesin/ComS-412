@@ -1,5 +1,6 @@
 # Com S 412/512
-Formal Methods, Model Checking
+Formal Methods in Software Engineering
+Model Checking
 
 Professor: Samik Basu
 Term: 2021 Spring
